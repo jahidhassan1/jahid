@@ -1,0 +1,60 @@
+h1{
+    font-size: 30px;
+
+}
+.name{
+    color: cadetblue;
+    text-align: center;
+}
+.part1{
+    display: flex;    
+    margin: 3%;
+    padding: 40px;
+    }
+    .part1 img{
+        width: 100%;
+    }
+    
+
+.button{
+    text-decoration: none;
+background-color: rgb(236, 236, 175);
+padding: 10px 20px ;
+border-radius: 10px;
+color: aqua;
+}
+
+.bad{
+display: flex;
+flex: basis 5%; 
+
+}
+.test-box{
+    display: flex;
+   
+    justify-content: space-around;
+}
+.test-box div{
+padding: 3%;
+ margin: 30px;
+}
+.test-box  .child1{
+    background-color: rgb(255, 250, 240);
+    
+   }
+    .test-box  .child2{
+     background-color: rgb(251, 240, 255);
+
+        
+   }
+    
+    .test-box  .child3{
+    background-color: rgb(255, 247, 240);
+   
+    }
+.test-box img{
+    width: 100%;
+}
+.ali{
+    text-align: center;
+}
